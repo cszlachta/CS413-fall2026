@@ -2,8 +2,8 @@
 
 ## Student information
 
-Name: **REPLACE THIS WITH YOUR NAME**
+Name: Caroline Szlachta 
 
 In one sentence, what is the difference between Git and GitHub?
 
-**REPLACE THIS SENTENCE**
+Git is the system while git hub is where repos are stored. 
